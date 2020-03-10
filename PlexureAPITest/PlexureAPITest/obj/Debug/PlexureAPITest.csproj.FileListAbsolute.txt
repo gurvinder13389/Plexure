@@ -1,0 +1,15 @@
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/NUnit3.TestAdapter.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/NUnit3.TestAdapter.pdb
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/nunit.engine.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/nunit.engine.api.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/Mono.Cecil.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/PlexureAPITest.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/PlexureAPITest.pdb
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/Newtonsoft.Json.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/nunit.framework.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/Newtonsoft.Json.xml
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/nunit.framework.pdb
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/bin/Debug/nunit.framework.xml
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/obj/Debug/PlexureAPITest.csproj.CopyComplete
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/obj/Debug/PlexureAPITest.dll
+/Users/gurvindersingh/Desktop/Plexure/PlexureAPITest/PlexureAPITest/obj/Debug/PlexureAPITest.pdb

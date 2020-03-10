@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9B20DE68-70B0-4C3E-90CA-F9EE0166A53D}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlexureAPITest/Test.cs">
+    <Files>
+      <File FileName="PlexureAPITest/Test.cs" Line="93" Column="4" />
+      <File FileName="PlexureAPITest/Response.cs" Line="39" Column="32" />
+      <File FileName="PlexureAPITest/ResponseEntities.cs" Line="21" Column="34" />
+      <File FileName="PlexureAPITest/Service.cs" Line="49" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlexureAPITest" expanded="True">
+            <Node name="PlexureAPITest" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PlexureAPITest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PlexureAPITest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
